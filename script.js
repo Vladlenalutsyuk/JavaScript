@@ -1,5 +1,5 @@
 "use strict";
-alert(a);
+alert(f);
 alert(b);
 alert(c); //комментарий
 /* 
