@@ -51,9 +51,15 @@ alert(k);
 alert(u); */
 
 //18#2
-let c = 10;
+/*let c = 10;
 let d = 5;
 let result = a + b; 
-alert(result);
+alert(result);*/
+
+//18#3
+let a = 1;
+let b = 2;
+let c = 3;
+alert(a+b+c);
 
 
