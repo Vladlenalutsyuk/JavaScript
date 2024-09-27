@@ -1,7 +1,7 @@
 "use strict";
-alert(f);
+/*alert(f);
 alert(b);
-alert(c); //комментарий
+alert(c);*/ //комментарий
 /* 
 комментарий
 */
@@ -28,11 +28,14 @@ b = 2;
 c = 3;*/
 
 //15#1
-let a;   
-a = 1;    
+/*let a;   
+a = 10;    
 alert(a); 
 
-a = 2;    
-alert(a); 
+a = 20;    
+alert(a); */
+//17#1
+let a = 1 + 2 + 3;
+alert(a);
 
 
