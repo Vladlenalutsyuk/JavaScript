@@ -37,8 +37,9 @@ alert(a); */
 //17#1
 /*let a = 1 + 2 + 3;
 alert(a);*/
+
 //18#1
-let a = 10;
+/*let a = 10;
 let b = 2;
 let c = a + b; 
 let g = a - b; 
@@ -47,6 +48,12 @@ let u = a / b;
 alert(c);
 alert(g);
 alert(k);
-alert(u); 
+alert(u); */
+
+//18#2
+let c = 10;
+let d = 5;
+let result = a + b; 
+alert(result);
 
 
