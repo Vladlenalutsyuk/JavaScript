@@ -35,7 +35,18 @@ alert(a);
 a = 20;    
 alert(a); */
 //17#1
-let a = 1 + 2 + 3;
-alert(a);
+/*let a = 1 + 2 + 3;
+alert(a);*/
+//18#1
+let a = 10;
+let b = 2;
+let c = a + b; 
+let g = a - b; 
+let k = a * b; 
+let u = a / b; 
+alert(c);
+alert(g);
+alert(k);
+alert(u); 
 
 
