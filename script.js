@@ -57,9 +57,19 @@ let result = a + b;
 alert(result);*/
 
 //18#3
-let a = 1;
+/*let a = 1;
 let b = 2;
 let c = 3;
-alert(a+b+c);
+alert(a+b+c);*/
+
+//18#4
+let a = 10;
+let b = 5;
+let c = a - b;
+let d = 7;
+let r;
+r = c + d;
+
+alert(r);
 
 
