@@ -153,3 +153,8 @@ alert(a % b);*/
 /*let a = 2;
 let b = 10;
 alert(a ** b);*/
+
+//27#1
+/*let a = 3 * 2 ** 3;
+alert(a);*/
+//24
