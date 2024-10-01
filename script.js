@@ -63,13 +63,16 @@ let c = 3;
 alert(a+b+c);*/
 
 //18#4
-let a = 10;
+/*let a = 10;
 let b = 5;
 let c = a - b;
 let d = 7;
 let r;
 r = c + d;
 
-alert(r);
+alert(r);*/
+//19#1
+let a = 5 + 5 * 3;
+alert(a);
 
 
