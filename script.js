@@ -143,3 +143,8 @@ alert(a);*/
 //23#2
 /*let a = -100;
 alert(-a);*/
+
+//25#1
+/*let a = 13;
+let b = 5;
+alert(a % b);*/
