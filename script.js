@@ -135,3 +135,7 @@ alert(a);*/
 /*let a = 1,5; 
 let b = 0,75;
 alert(a+b);*/
+
+//23#1
+/*let a = -100;
+alert(a);*/
