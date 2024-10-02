@@ -226,3 +226,8 @@ alert(a);*/
 /*let a = false;
 alert(a);*/
 
+//37#1
+/*let a = 3;
+let b = 4;
+alert();*/
+
