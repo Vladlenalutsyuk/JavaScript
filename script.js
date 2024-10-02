@@ -210,3 +210,7 @@ alert(txt);*/
 /*let str = `a\nb\nc`;
 alert(str);*/
 
+//34#1
+/*let a = undefined;
+alert(a);*/
+
