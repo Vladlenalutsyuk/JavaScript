@@ -218,3 +218,7 @@ alert(a);*/
 /*let a = null;
 alert(a);*/
 
+//36#1
+/*let a = true;
+alert(a);*/
+
