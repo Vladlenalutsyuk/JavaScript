@@ -214,3 +214,7 @@ alert(str);*/
 /*let a = undefined;
 alert(a);*/
 
+//35#1
+/*let a = null;
+alert(a);*/
+
