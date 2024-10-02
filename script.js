@@ -203,6 +203,10 @@ alert(str.length);*/
 //31#1
 /*let str1 = 'xxx';
 let str2 = 'yyy';
-let txt  = 'aaa ' + ${str1} + ' bbb 
-	' + ${str2} + ' ccc'; */
+let txt  = `aaa` ${str1} `bbb` ${str2} `ccc`; 
+alert(txt);*/
+
+//32#1
+/*let str = `a\nb\nc`;
+alert(str);*/
 
