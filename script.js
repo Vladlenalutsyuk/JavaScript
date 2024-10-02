@@ -186,3 +186,9 @@ alert(str);*/
 /*let str = "!!!";
 alert(str);*/
 
+//29#2
+/*let str1 = 'java';
+let str2 = 'script';
+alert(str1 + str2)*/
+
+
