@@ -222,3 +222,7 @@ alert(a);*/
 /*let a = true;
 alert(a);*/
 
+//36#2
+/*let a = false;
+alert(a);*/
+
