@@ -196,4 +196,7 @@ alert(str1 + str2)*/
 let str2 = 'world';
 alert(str1 + ' ' + str2);*/
 
+//30#1
+/*let str = 'jgghjhjg';
+alert(str.length);*/
 
