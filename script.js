@@ -177,3 +177,7 @@ alert(a);*/
 /*let a = 3 * 2 ** 3 * 3;
 alert(a);*/
 //72
+//28#1
+/*let str = "Луцюк";
+alert(str);*/
+
