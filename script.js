@@ -191,4 +191,9 @@ alert(str);*/
 let str2 = 'script';
 alert(str1 + str2)*/
 
+//29#3
+/*let str1 = 'hello';
+let str2 = 'world';
+alert(str1 + ' ' + str2);*/
+
 
