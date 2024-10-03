@@ -247,4 +247,18 @@ let num2 = 456;
 let num3 = 4544;
 console.log(num1, num2, num3);*/
 
+//40#1
+// Примитивные типы данных
+console.log("string:", "Hello");            // строка
+console.log("number:", 42);                 // число (целое)
+console.log("float number:", 3.14);         // число (с плавающей точкой)
+console.log("boolean:", true);              // логическое значение
+console.log("undefined:", undefined);       // неопределенное значение
+console.log("null:", null);                 // null (особое значение)
+console.log("symbol:", Symbol("id"));       // символ
+
+// Объектные типы данных
+console.log("object:", { name: "John" });   // объект
+console.log("array:", [1, 2, 3]);           // массив
+console.log("function:", function(){});     // функция
 
