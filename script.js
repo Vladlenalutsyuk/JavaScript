@@ -238,7 +238,13 @@ alert(a*b);*/
 /*alert( -10 / 0);*/
 
 //39#1
-let num = 123;
-console.log(num);
+/*let num = 123;
+console.log(num);*/
+
+//39#2
+/*let num1 = 123;
+let num2 = 456;
+let num3 = 4544;
+console.log(num1, num2, num3);*/
 
 
