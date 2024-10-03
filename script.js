@@ -227,7 +227,10 @@ alert(a);*/
 alert(a);*/
 
 //37#1
-/*let a = 3;
-let b = 4;
-alert();*/
+/*let a = 'aaa';
+let b = 'bbb';
+alert(a*b);*/
+
+//38#1
+alert( 1 / 0);
 
