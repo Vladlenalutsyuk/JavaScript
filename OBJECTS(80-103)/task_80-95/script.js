@@ -56,3 +56,66 @@ let obj87 = {8: 'olla', 67: 'hello', 98: 'good'};
 console.log(obj87[8])
 console.log(obj87[67]); 
 console.log(obj87[98]);
+
+// Задание 88 №1
+let obj88 = {x: 1, y: 2, z: 3};
+let keys = Object.keys(obj88);
+console.log(keys);
+
+// Задание 89 №1
+let obj89 = {x: 1, y: 2, z: 3};
+console.log(Object.keys(obj89).length);
+
+// Задание 90 №1
+let obj90 = {x: 1, y: 2, z: 3};
+let key90 = 'y';
+console.log(obj90[key90]);
+
+// Задание 91 №1
+let obj91_1 = {x: 1, y: 2, z: 3};
+console.log(obj91_1['x']);
+
+// Задание 91 №2
+let obj91_2 = {x: 1, y: 2, z: 3};
+let key91 = 'x';
+console.log(obj91_2[key91]);
+
+// Задание 92 №1
+let obj92_1 = {x: 1, y: 2, z: 3};
+let prop92_1 = 'x';
+console.log(obj92_1[prop92_1]);
+
+// Задание 92 №2
+let obj92_2 = {x: 1, y: 2, z: 3};
+
+let prop92_2 = 'x';
+console.log(obj92_2[prop92_2]);
+
+// Задание 93 №1
+// let key93 = 'x';
+// let obj93_1 = {
+// [key93]: 1,
+// y: 2,
+// z: 3
+// };
+
+// Задание 93 №2
+// let obj93_2 = {
+// 	[key93_1]: 1,
+// 	[key93_2]: 2,
+// 	[key93_3]: 3
+// 	};
+// 	let key93_1 = 'x';
+// 	let key93_2 = 'y';
+// 	let key93_3 = 'z';
+
+// Задание 94 №1
+let obj94 = {x: 1, y: 2, z: 3};
+console.log('x' in obj94); // Результат вывода = true
+console.log('w' in obj94); // Результат вывода = false 
+
+// Задание 95 №1
+let obj95 = {x: 1, y: 2, z: 3};
+delete obj95.x;
+console.log('x' in obj95);
+// Результат вывода = {y: 2, z: 3}
