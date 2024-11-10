@@ -7,21 +7,21 @@ let obj81 = {1: 'January', 2: 'February', 3: 'March', 4: "April", 5: 'May', 6: '
 console.log(obj81);
 
 // Задание 82 №1
-let user82={name: "Catherine" , surname: "Grebeneva", patronymic: "Andreevna"};
-console.log(user82["surname"]+" "+user82["name"]+' '+user82["patronymic"]);
+let user82={name: "Vladlena" , surname: "Lutsyuk", patronymic: "Aleksandrovna"};
+console.log(user82["surname"], user82["name"], user82["patronymic"]);
 
 // Задание 83 №1
-let date83= {year:"2024", month:"10", day:"03"};
+let date83= {year:"2024", month:"11", day:"10"};
 console.log(date83.year+'.'+date83.month+"."+date83.day);
 
-// Задание 84 №1
-// let obj84_1 = {
-// 	'1a': 1, - кавычки обязательны
-// 	'b2': 2, - кавычки не обязательны
-// 	'с-с': 3, - кавычки обязательны
-// 	'd 4': 4, - кавычки обязательны
-// 	'e5': 5 - кавычки не обязательны
-// };
+/* Задание 84 №1
+ let obj84_1 = {
+ 	'1a': 1, - кавычки обязательны
+ 	'b2': 2, - кавычки не обязательны
+ 	'с-с': 3, - кавычки обязательны
+ 	'd 4': 4, - кавычки обязательны
+ 	'e5': 5 - кавычки не обязательны
+ };*/
 
 // Задание 84 №2
 let obj84_2 = {
@@ -46,13 +46,13 @@ console.log(obj85);
 
 // Задание 86 №1
 let obj86 = {};
-obj86.a = 'love';
-obj86.b = 'kind';
-obj86.c = 'miracle';
+obj86.a = '1';
+obj86.b = '2';
+obj86.c = '3';
 console.log(obj86);
 
 // Задание 87 №1
-let obj87 = {5: 'rosetta', 25: 'tinker bell', 15: 'silvermist'};
-console.log(obj87[5])
-console.log(obj87[15]); 
-console.log(obj87[25]);
+let obj87 = {8: 'olla', 67: 'hello', 98: 'good'};
+console.log(obj87[8])
+console.log(obj87[67]); 
+console.log(obj87[98]);
