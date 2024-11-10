@@ -138,7 +138,7 @@ console.log(res102);
 
 // Задание 103 №1
 let obj103_1 = {x: 1, y: 2, z: 3};
-console.log(objobj103_1['x']); 
+console.log(obj103_1['x']); 
 
 // Задание 103 №2
 let obj103_2 = {x: 1, y: 2, z: 3};
