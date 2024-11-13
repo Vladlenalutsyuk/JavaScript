@@ -131,3 +131,196 @@ for( let elem164_1 of arr164_1){
 }
 console.log('Результат задания 164 №1: ' + sum164_1);
 
+// Задание 165 №1
+let obj165 = { a: 10, b: 20, c: 30, d: 40, e: 50 };
+let sum165 = 0;
+for (let elem165 in obj165) {
+    let str165 = String(obj165[elem165]);
+    if (str165[0] === '1' || str165[0] === '2') {
+        sum165 += +str165;
+    }
+}
+console.log('Результат задания 165 №1: ' + sum165);
+
+// Задание 166 №1
+console.log('Результат задания 166 №1:');
+for (let i = 0; i <= 10; i++) {
+	console.log(i);
+}
+  
+// Задание 166 №2
+console.log('Результат задания 166 №2:');
+for (let i = 10; i >= 0; i--) {
+	console.log(i);
+}
+
+// Задание 166 №3
+console.log('Результат задания 166 №3:');
+for (let i = 10; i >= 0; i--) {
+	console.log(i);
+} 
+
+// Задание 166 №4
+console.log('Результат задания 166 №4:');
+let i = 0;
+while (i <= 10) {
+  console.log(i);
+  i++;
+}
+
+// Задание 166 №5
+console.log('Результат задания 166 №5:');
+let res166_5 = 0;
+for (let i = 1; i <= 10; i++) {
+  res166_5 += i;
+}
+console.log(res166_5);
+
+// Задание 166 №6
+console.log('Результат задания 166 №6:');
+let res166_6 = 1;
+for (let i = 1; i <= 10; i++) {
+  res166_6 *= i;
+}
+console.log(res166_6);
+
+// Задание 166 №7
+console.log('Результат задания 166 №7:');
+let arr166_7 = ['1', '2', '3', '4', '5'];
+let sum166_7 = 0;
+for (let elem166_7 of arr166_7) {
+  sum166_7 += +elem166_7;
+}
+console.log(sum166_7); 
+
+// Задание 166 №8
+console.log('Результат задания 166 №8:');
+let arr166_8 = ['1', '2', '3', '4', '5'];
+let sum166_8 = 0;
+for (let elem166_8 of arr166_8) {
+  sum166_8 += +elem166_8;
+}
+console.log(sum166_8); 
+
+// Задание 166 №9
+console.log('Результат задания 166 №9:');
+let arr166_9 = ['1', '2', '3', '4', '5'];
+let sum166_9 = 0;
+for (let elem166_9 of arr166_9) {
+  sum166_9 += +elem166_9;
+}
+console.log(sum166_9); 
+
+// Задание 166 №10
+console.log('Результат задания 166 №10:');
+let arr166_10 = ['1', '2', '3', '4', '5'];
+let sum166_10 = 0;
+for (let i = 0; i < arr166_10.length; i++) {
+  sum166_10 += +arr166_10[i];
+}
+console.log(sum166_10); 
+
+// Задание 166 №11
+console.log('Результат задания 166 №11:');
+let arr166_11 = ['1', '2', '3', '4', '5'];
+let sum166_11 = 0;
+for (let i = 0; i < arr166_11.length; i++) {
+  sum166_11 += +arr166_11[i];
+}
+console.log(sum166_11); 
+
+// Задание 166 №12
+console.log('Результат задания 166 №12:');
+let arr166_12 = ['1', '2', '3', '4', '5'];
+let sum166_12 = 0;
+for (let i = 0; i < arr166_12.length; i++) {
+  sum166_12 += +arr166_12[i];
+}
+console.log(sum166_12); 
+
+// Задание 166 №13
+console.log('Результат задания 166 №13:');
+let arr166_13 = [1, 2, 3, 4, 5];
+for (let key166_13 in arr166_13) {
+  arr166_13[key166_13] = arr166_13[key166_13] ** 2;
+}
+console.log(arr166_13);
+
+// Задание 166 №14
+console.log('Результат задания 166 №14:');
+let arr166_14 = [];
+for (let i = 1; i <= 5; i++) {
+  arr166_14.push(i);
+}
+console.log(arr166_14);
+
+// Задание 166 №15
+console.log('Результат задания 166 №15:');
+let obj166_15 = {a: 1, b: 2, c: 3};
+let sum166_15 = 0;
+for (let key166_15 in obj166_15) {
+  sum166_15 += obj166_15[key166_15];
+}
+console.log(sum166_15);
+
+// Задание 166 №16
+console.log('Результат задания 166 №16:');
+let obj166_16 = {a: 1, b: 2, c: 3};
+let sum166_16 = 0;
+for (let key166_16 in obj166_16) {
+  sum166_16 += obj166_16[key166_16];
+}
+console.log(sum166_16);
+
+// Задание 166 №17
+console.log('Результат задания 166 №17:');
+let arr166_17 = [1, 2, 3, 4, 5];
+let res166_17 = false;
+for (let elem166_17 of arr166_17) {
+    if (elem166_17 === 3) {
+        res166_17 = true;
+        break;
+    }
+}
+console.log(res166_17);
+
+// Задание 166 №18
+console.log('Результат задания 166 №18:');
+let arr166_18 = [];
+for (let i = 1; i <= 5; i++) {
+    arr166_18.push(i);
+}
+console.log(arr166_18);
+
+// Задание 166 №19
+console.log('Результат задания 166 №19:');
+let arr166_19 = [1, 2, 3, 4, 5];
+let res166_19 = false;
+for (let elem166_19 of arr166_19) {
+    if (elem166_19 === 3) {
+        res166_19 = true;
+        break;
+    }
+}
+console.log(res166_19);
+
+// Задание 166 №20
+console.log('Результат задания 166 №20:');
+let arr166_20 = [1, 2, 3, 4, 5];
+for (let elem166_20 of arr166_20) {
+    if (elem166_20 % 2 === 0) {
+        console.log(elem166_20);
+    }
+}
+
+// Задание 166 №21
+console.log('Результат задания 166 №21:');
+let arr166_21 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+let res166_21 = [];
+
+for (let elem166_21 of arr166_21) {
+    if (elem166_21 % 2 !== 0) {
+        res166_21.push(elem166_21);
+    }
+}
+console.log(res166_21);
