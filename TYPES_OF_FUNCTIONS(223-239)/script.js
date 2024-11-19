@@ -235,3 +235,12 @@ function func3() {
 // } + console.log('!'); 
 
 
+// Задание 237 №1
+console.log('Результат задания 237:');
+let arr237 = [
+	function() { return 1; },
+	function() { return 2; },
+	function() { return 3; },
+  ];
+
+
