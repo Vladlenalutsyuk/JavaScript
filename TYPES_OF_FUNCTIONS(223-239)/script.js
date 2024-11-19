@@ -74,3 +74,12 @@ function func229_1() {
 // let func229_2 = function() {
 // 	console.log('Hello! My friends');
 // };
+
+// Задание 230 №1
+let func1 = function() {console.log('!')};
+let func2 = function() {
+	console.log('!')
+};
+function func3() {
+	console.log('!')
+}
