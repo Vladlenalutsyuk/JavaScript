@@ -16,3 +16,7 @@ console.log(func224());
 
 // Задание 224 №3
 console.log(func224);
+
+// Задание 224 №4
+func224 = 123; 
+console.log(func224); 
