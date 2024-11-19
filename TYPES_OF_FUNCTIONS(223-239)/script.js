@@ -133,3 +133,30 @@ function func3() {
 // 		console.log('!');
 // 	}
 // ); 
+
+// Задание 234 №1
+// Ниже представленная функция - Function Expression
+// let test = function func() {
+// 	console.log('!');
+// } 
+
+// Задание 234 №2
+// Ниже представленная функция - Function Expression
+// console.log(
+// 	function func() {
+// 		console.log('!');
+// 	}
+// ); 
+
+// Задание 234 №3
+// Ниже представленная функция - Function Expression
+// +function func() {
+// 	console.log('!');
+// }
+
+// Задание 234 №4
+// Ниже представленная функция - Function Declaration
+// function func() {
+// 	console.log('!');
+// } 
+
