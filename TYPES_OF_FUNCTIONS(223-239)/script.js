@@ -195,4 +195,43 @@ function func3() {
 // 	console.log('!');
 // } 
 
+// Задание 236 №1
+// Ниже представленная функция - Function Declaration
+// function func() {
+// 	console.log('!');
+// }
+// +1; 
+
+// Задание 236 №2
+// Ниже представленная функция - Function Declaration
+// function func() {
+// 	console.log('!');
+// } + 1; 
+
+// Задание 236 №3
+// Ниже представленная функция - Function Expression
+// +function func() {
+// 	console.log('!');
+// } + 1; 
+
+// Задание 236 №4
+// Ниже представленная функция - Function Expression
+// +
+// function func() {
+// 	console.log('!');
+// } + 1; 
+
+// Задание 236 №5
+// Ниже представленная функция - Function Declaration
+// + 1
+// function func() {
+// 	console.log('!');
+// } + 1; 
+
+// Задание 236 №6
+// Ниже представленная функция - Function Declaration
+// function func() {
+// 	console.log('!');
+// } + console.log('!'); 
+
 
