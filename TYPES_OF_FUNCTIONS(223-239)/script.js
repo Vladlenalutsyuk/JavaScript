@@ -61,3 +61,16 @@ console.log(func226_1() + func226_2())
 // function func() {
 //   console.log('!') ;
 // }
+
+// Задание 229 №1
+console.log('Результат задания 229 №1:');
+func229_1(); 
+function func229_1() {
+  console.log('Hello! My friends');
+}
+
+// Задание 229 №2
+// func229_2(); // будет ошибка объявления
+// let func229_2 = function() {
+// 	console.log('Hello! My friends');
+// };
