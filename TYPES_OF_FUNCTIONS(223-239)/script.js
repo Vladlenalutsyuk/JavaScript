@@ -160,3 +160,39 @@ function func3() {
 // 	console.log('!');
 // } 
 
+// Задание 235 №1
+// Ниже представленная функция - Function Expression
+// -
+// function func() {
+// 	console.log('!');
+// } 
+
+// Задание 235 №2
+// Ниже представленная функция - Function Declaration
+// -1;
+// function func() {
+// 	console.log('!');
+// } 
+
+// Задание 235 №3
+// Ниже представленная функция - Function Declaration
+// -1
+// function func() {
+// 	console.log('!');
+// } 
+
+// Задание 235 №4
+// Ниже представленная функция - Function Declaration
+// 1
+// function func() {
+// 	console.log('!');
+// } 
+
+// Задание 235 №5
+// Ниже представленная функция - Function Expression
+// -1-
+// function func() {
+// 	console.log('!');
+// } 
+
+
