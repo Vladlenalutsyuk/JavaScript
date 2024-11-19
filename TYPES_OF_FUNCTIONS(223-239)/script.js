@@ -13,3 +13,6 @@ function func224() {
 
 // Задание 224 №2
 console.log(func224()); 
+
+// Задание 224 №3
+console.log(func224);
