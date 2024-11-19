@@ -10,3 +10,6 @@ console.log('Результат задания 224:');
 function func224() {
 	return 'hello';
 }
+
+// Задание 224 №2
+console.log(func224()); 
