@@ -4,3 +4,9 @@ function func() {
 	return '!';
 }
 console.log(func); 
+
+// Задание 224 №1
+console.log('Результат задания 224:');
+function func224() {
+	return 'hello';
+}
