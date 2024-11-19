@@ -243,4 +243,15 @@ let arr237 = [
 	function() { return 3; },
   ];
 
+// Задание 237 №2
+console.log(arr237[2]()); 
 
+
+// Задание 237 №3
+let sum237 = arr237[0]() + arr237[1]() + arr237[2]();
+console.log(sum237); 
+
+// Задание 237 №4
+for (let func237 of arr237) {
+	console.log(func237());
+  }
